@@ -1,11 +1,11 @@
-# CNE Multikey
+# CNE Multikey Deluxe
 
-A mod for [Codename Engine](https://github.com/CodenameCrew/CodenameEngine) that adds multikey support (1K - 9K).
+A mod for [Codename Engine](https://github.com/CodenameCrew/CodenameEngine) that adds multikey support (1K - 35K + 100K).
 
 ![](https://github.com/TheZoroForce240/CNE-Multikey/blob/main/github/main.png) 
 
 ## Features
-- 1-9K support, with a fully customizable xml to add and edit key counts
+- 1-35K + 100K support, with a fully customizable xml to add and edit key counts
 - Custom Controls
 - Mid song key count changes
 - Different key counts per strumline
@@ -28,3 +28,4 @@ For importing existing charts from other engines see [here](https://www.youtube.
 
 - TheZoroForce240 - Coding
 - SrPerez - Multikey note assets (from The Shaggy Mod)
+- Defordel - 10-35 + 100K support
