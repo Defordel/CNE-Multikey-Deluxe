@@ -28,4 +28,4 @@ For importing existing charts from other engines see [here](https://www.youtube.
 
 - TheZoroForce240 - Coding
 - SrPerez - Multikey note assets (from The Shaggy Mod)
-- Defordel - 10-35 + 100K support
+- Defordel - 10 - 35K + 100K support
