@@ -2,7 +2,8 @@
 
 A mod for [Codename Engine](https://github.com/CodenameCrew/CodenameEngine) that adds multikey support (1K - 35K + 100K).
 
-![](https://github.com/TheZoroForce240/CNE-Multikey/blob/main/github/main.png) 
+<img width="1280" height="720" alt="35k showcase" src="https://github.com/user-attachments/assets/182d525f-d4b2-4fd9-96ed-90bc4df913cd" />
+
 
 ## Features
 - 1-35K + 100K support, with a fully customizable xml to add and edit key counts
