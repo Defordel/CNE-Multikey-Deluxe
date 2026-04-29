@@ -21,7 +21,8 @@ Copy over the files inside the assets folder, and put them inside of your mod fo
 
 Add a "Set Key Count" event and set the values, the first event in the song will be the default key count, and any afterwards will make it change mid song.
 
-![](https://github.com/TheZoroForce240/CNE-Multikey/blob/main/github/event.png)
+<img width="442" height="240" alt="35k chart editor showcase" src="https://github.com/user-attachments/assets/6997094b-64bc-41fb-b902-ed83c74c26e6" />
+
 
 For importing existing charts from other engines see [here](https://www.youtube.com/watch?v=Ic-4EfDPbd8)
 
