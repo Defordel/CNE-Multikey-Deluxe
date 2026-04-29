@@ -11,6 +11,7 @@ A mod for [Codename Engine](https://github.com/CodenameCrew/CodenameEngine) that
 - Mid song key count changes
 - Different key counts per strumline
 - Gamepad support
+- A better multikey noteskin
 
 ![](https://github.com/TheZoroForce240/CNE-Multikey/blob/main/github/controlsmenu.png)
 ![](https://github.com/TheZoroForce240/CNE-Multikey/blob/main/github/controlsmenugamepad.png)
