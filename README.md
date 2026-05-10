@@ -22,6 +22,10 @@ Copy over the files inside the assets folder, and put them inside of your mod fo
 
 Add a "Set Key Count" event and set the values, the first event in the song will be the default key count, and any afterwards will make it change mid song.
 
+## WARNING!!!
+
+I don't know why, but the strumlines don't display any animations if there is no "Set Key Count" event (even if if the song is in 4k), so make sure you set the 4k songs's key count to, well... 4.
+
 <img width="442" height="240" alt="35k chart editor showcase" src="https://github.com/user-attachments/assets/6997094b-64bc-41fb-b902-ed83c74c26e6" />
 
 
