@@ -34,5 +34,5 @@ For importing existing charts from other engines see [here](https://www.youtube.
 ## Credits
 
 - TheZoroForce240 - Coding
-- SrPerez - Multikey note assets (from The Shaggy Mod)
-- Defordel - 10 to 43K + 100K support
+- SrPerez - Original Multikey note assets (from The Shaggy Mod)
+- Defordel - 10 to 43K + 100K support + noteskin
